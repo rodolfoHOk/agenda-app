@@ -1,0 +1,13 @@
+.foto {
+  width: 200px;
+  height: 200px;
+}
+
+span {
+  margin-left: 5px;
+}
+
+.mat-card-content-center {
+  display: inline;
+  float: center;
+}

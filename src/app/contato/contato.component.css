@@ -1,0 +1,44 @@
+.full-width {
+  width: 100%;
+}
+
+.half-width {
+  width: 50%;
+}
+
+.card-margin {
+  margin: 10px;
+  background-color:#fafcff;
+}
+
+.texto-cinza {
+  color:rgba(128, 128, 128, 0.70);
+  font-size: smaller;
+}
+
+.input-file{
+  display: none;
+}
+
+.label-input-file {
+  background-color:#3F51B5;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  padding: 8px 10px;
+  box-shadow: 0px 1px 1px grey;
+}
+
+.mat-column-foto {
+  flex: nome;
+  width: 110px;
+}
+
+.mat-column-favorito {
+  flex: nome;
+  width: 25px;
+}
+
+span {
+  margin-left: 5px;
+}
